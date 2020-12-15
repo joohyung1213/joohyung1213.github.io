@@ -1,6 +1,6 @@
 # Site Info
 title: Tech blog
-tagline: ''
+tagline: '기술문서'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: https://joohyung1213.github.io
@@ -25,14 +25,13 @@ version: 1.0.0
 # About/contact
 author:
   name: Joohyung Jeon
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  description: 
   gravatar: #3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/joohyung-jeon-aa5615188
     github:    https://github.com/joohyung1213
     # facebook:  <hide>
     # twitter:   <hide>
-    # weibo:     #http://weibo.com/41173780
     email:     joohyung1213@gmail.com
 
 # Navigation (2nd level links supported)
@@ -53,8 +52,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/Egon_Schiele.jpg
-  caption: Self-Portrait with Physalis, 1912, Egon Schiele.
+  image: /public/img/9.jpg
+  caption: Blade Runner 2049, 2017, Denis Villeneuve.
 
 # Puglins
 mathjax: true # whether support mathjax
