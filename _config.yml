@@ -1,6 +1,6 @@
 # Site Info
 title: Tech blog
-tagline: '기술문서'
+tagline: '기술 블로그'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: https://joohyung1213.github.io
@@ -32,7 +32,9 @@ author:
     github:    https://github.com/joohyung1213
     # facebook:  <hide>
     # twitter:   <hide>
-    email:     joohyung1213@gmail.com
+    # weibo:     #http://weibo.com/41173780
+    email:     mailto:joohyung1213@gmail.com
+
 
 # Navigation (2nd level links supported)
 nav:
